@@ -1,0 +1,402 @@
+[
+    {
+        "peribahasa": "ada gula adalah semut",
+        "id":1,
+        "maksud": "di mana ada rezeki di situlah ramai orang"
+    },
+    {
+        "peribahasa":"ada kerak, adalah nasi",
+        "id":2,
+        "maksud": "tiap perbuatan tentu meninggalkan kesannya"
+    },
+    {
+        "peribahasa": "air pun ada pasang surutnya",
+        "id":3,
+        "maksud": "keadaan hidup seseorang tidak tetap, adakalanya senang ada kalanya susah"
+    },
+    {
+        "peribahasa":"alah bisa tegal biasa",
+        "id":4,
+        "maksud": "perkara yang sudah biasa dilakukan tidak akan terasa lagi kesukarannya"
+    },
+    {
+        "peribahasa":"bagai hujan jatuh ke pasir",
+        "id":5,
+        "maksud": "kebaikan yang sia-sia atau tidak berbalas"
+    },
+    {
+        "peribahasa":"bagai menelan mestika embun",
+        "id":6,
+        "maksud": "mendengar nasihat yang baik"
+    },
+    {
+        "peribahasa": "bagaimana acuan begitulah kuihnya",
+        "id":7,
+        "maksud": ["seseorang anak itu akan menurut budi dan perangai ibu bapanya", "keadaan sesuatu itu menurut asalnya"]
+    },
+    {
+        "peribahasa": "belakang parang pun jikalau diasah nescaya tajam",
+        "id":8,
+        "maksud": "seseorang yang bodoh sekalipun, jika diajar betul-betul akan menjadi pandai"
+    },
+    {
+        "peribahasa": "berani kerana benar, takut kerana salah",
+        "id":9,
+        "maksud": "bertindak kerana berada di pihak yang benar atau untuk menegakkan kebenaran"
+    },
+    {
+        "peribahasa": "biar putih tulang, jangan putih mata",
+        "id":10,
+        "maksud": ["mempertahankan sesuatu yang menjadi hak milik kita walaupun nyawa kita terancam","lebih baik mati daripada menanggung malu"]
+    },
+    {
+        "peribahasa": "burung terbang dipipiskan lada",
+        "id":11,
+        "maksud": "merancang sesuatu yang belum pasti diperoleh"
+    },
+    {
+        "peribahasa": "di mana bumi dipijak, di situ langit dijunjung",
+        "id":12,
+        "maksud": ["apabila kita menetap di sesebuah negeri kita perlulah mematuhi peraturan dan undang-undang di tempat tersebut", "segala suruhan atau nasihat dituruti dan dikerjakan dengan sepenuh hati"]
+    },
+    {
+        "peribahasa": "diam-diam ubi berisi, diam-diam esi berkarat",
+        "id":13,
+        "maksud": "diam seseorang yang berilmu itu berfikir, sementara diam orang yang bodoh itu sia-sia sahaja"
+    },
+    {
+        "peribahasa": "ditatang bagai minyak yang penuh",
+        "id":14,
+        "maksud": "sangat dikasihi dan dipelihara dengan sempurna"
+    },
+    {
+        "peribahasa": "garam jatuh ke air",
+        "id":15,
+        "maksud": "seseorang yang sangat cepat menerima dan mudah memahami sesuatu nasihat atau pengajaran yang diberikan kepadanya"
+    },
+    {
+        "peribahasa": "hilang adat tegal muafakat",
+        "id":16,
+        "maksud": "adat lama itu boleh diubah asal dengan muafakat"
+    },
+    {
+        "peribahasa": "ingat sebelum kena, jimat sebelum habis",
+        "id":17,
+        "maksud": "hendaklah sentiasa berhati-hati supaya jangan terpedaya dan habis harta"
+    },
+    {
+        "peribahasa": "kusut di hujung, bawa ke pangkal",
+        "id":18,
+        "maksud": "apabila perundingan menemui jalan buntu, haruslah segera balik ke punca masalah"
+    },
+    {
+        "peribahasa": "malu berkayuh perahu hanyut",
+        "id":19,
+        "maksud": ["kalau tidak berusaha, tentulah susah dan kalau segan bertanya, akan membuat kesilapan", "kalau segan berusaha tidak akan mendapat kemajuan"]
+    },
+    {
+        "peribahasa": "ringan tulang berat perut",
+        "id":20,
+        "maksud": ["jika rajin dan tekun berusaha melakukan sesuatu pekerjaan, maka akan murahlah rezeki"]
+    },
+    {
+        "peribahasa": "seperti anak ayam kehilangan ibu",
+        "id":21,
+        "maksud": "sekumpulan orang yang tidak tentu arah atau berpecah-pecah akibat kehilangan pemimpin atau tempat tumpuan dan pengharapan"
+    },
+    {
+        "peribahasa": "sesat di hujung jalan, balik ke pangkal jalan",
+        "id":22,
+        "maksud": "jika tidak boleh dicapai persetujuan dalam sesuatu mesyuarat hendaklah diselidiki kembali pokok persoalannya"
+    },
+    {
+        "peribahasa": "bagaimana bunyi gendang, begitulah tarinya",
+        "id":23,
+        "maksud": ["bagaimana perintah, begitulah yang harus dituruti", "bagaimana perbuatan/perkataan demikianlah balas dan jawapannya"]
+    },
+    {
+        "peribahasa": "berapa tinggi terbang bangau, akhirnya hinggap di belakang kerbau juga",
+        "id":24,
+        "maksud": ["walau ke mana juga kita pergi akhirnya akan balik ke negeri asal juga", "walau berapa tinggi pangkat akhirnya hilang juga"]
+    },
+    {
+        "peribahasa": "berjagung-jagung dahulu sementara menanti padi masak",
+        "id":25,
+        "maksud": "sementara menunggu apa yang baik, lakukanlah kegiatan/perkara-perkara yang berfaedah"
+    },
+    {
+        "peribahasa": "bertepuk sebelah tangan tidak akan berbunyi",
+        "id":26,
+        "maksud": "sesuatu perkara tidak akan terjadi jikalau satu pihak sahaja yang memulakannya"
+    },
+    {
+        "peribahasa": "cakap siang pandang-pandang, cakap malam dengar-dengar",
+        "id":27,
+        "maksud": "berhati-hati semasa bercakap dengan orang kerana percakapan yang sembarangan boleh membawa akibat yang buruk"
+    },
+    {
+        "peribahasa": "carik-carik bulu ayam, lama-lama bercantum juga",
+        "id":28,
+        "maksud": "perselisihan dalam kalangan kaum keluarga sendiri akhirnya akan berbaik-baik semula"
+    },
+    {
+        "peribahasa": "cubit paha kanan, paha kiri pun terasa juga",
+        "id":29,
+        "maksud": "penganiayaan terhadap keluarga sendiri akan dirasai oleh ahli keluarga yang lain"
+    },
+    {
+        "peribahasa": "genggam bara api biar sampai jadi arang",
+        "id":30,
+        "maksud": "membuat sesuatu pekerjaan yang sukar atau susah hendaklah bersabar sehingga mencapai kejayaan"
+    },
+    {
+        "peribahasa": "harapkan guruh dilangit, air di tempayan dicurahkan",
+        "id":31,
+        "maksud": "kerana mengharapkan sesuatu yang belum tentu, barang yang tersedia dilepaskan"
+    },
+    {
+        "peribahasa": "hidup kayu berbuah, hidup manusia berjasa",
+        "id":32,
+        "maksud": "seseorang yang hidup di dunia ini mestilah berbuat baik untuk diri sendiri dan juga berjasa kepada orang lain"
+    },
+    {
+        "peribahasa": "jauhari juga yang mengenal manikam",
+        "id":33,
+        "maksud": "orang yang bijaksana jua yang mengetahui keelokan ilmu, menghargai sifat yang mulia dan dapat menilai ketinggian mutu sesuatu barang"
+    },
+    {
+        "peribahasa": "jika asal benih yang baik, jatuh ke laut menjadi pulau",
+        "id":34,
+        "maksud": "orang yang mulia akan tetap mulia walau ke mana juga dia berada"
+    },
+    {
+        "peribahasa": "ke bukit sama didaki, ke lurah sama dituruni",
+        "id":35,
+        "maksud": "bermuafakat dalam sesuatu perkara senang atau susah agar sama-sama dirasai"
+    },
+    {
+        "peribahasa": "kerbau dipegang pada talinya; manusia dipegang pada janjinya",
+        "id":36,
+        "maksud": "manusia yang jujur akan sentiasa dipercayai orang kerana dia tidak akan mungkir janji"
+    },
+    {
+        "peribahasa": "lain padang lain belalangnya, lain lubuk lain ikannya",
+        "id":37,
+        "maksud": "lain negeri lain adat resam dan cara pemerintahannya"
+    },
+    {
+        "peribahasa": "laut mana yang tidak berombak, bumi mana yang tidak ditimpa hujan",
+        "id":38,
+        "maksud": "manusia tidak sunyi daripada melakukan kesalahan dan kesilapan"
+    },
+    {
+        "peribahasa": "sekali air bah, sekali pasir berubah",
+        "id":39,
+        "maksud": "apabila bertukar ketua atau pemerintah di dalam sesebuah negara, maka cara hidup pun berubah juga"
+    },
+    {
+        "peribahasa": "seperti buah padi, makin berisi makin rendah; jangan seperti lalang, makin lama makin tinggi",
+        "id":40,
+        "maksud": "semakin berilmu atau tinggi pangkat semakin merendahkan diri"
+    },
+    {
+        "peribahasa": "seperti ketam menyuruh anaknya berjalan betul",
+        "id":41,
+        "maksud": "tiada berguna menasihati orang lain, kalau kelakuan sendiri tiada sesuai dengan apa yang dinasihatkannya itu"
+    },
+    {
+        "peribahasa": "seperti tikus jatuh ke beras",
+        "id":42,
+        "maksud": ["orang yang dapat kedudukan yang mewah","seseorang yang beroleh kekayaan atau keuntungan tetapi tidak mahu menceritakannya kepada orang lain"]
+    },
+    {
+        "peribahasa": "tak lekang dek panas, tak lapuk dek hujan",
+        "id":43,
+        "maksud": "sesuatu yang baik dan mulia akan kekal sepanjang masa"
+    },
+    {
+        "peribahasa": "takut titik lalu tumpah",
+        "id":44,
+        "maksud": "hendak mengelakkan kerugian kecil akhirnya mendapat kerugian besar"
+    },
+    {
+        "peribahasa": "air yang dingin juga yang dapat memadamkan api",
+        "id":45,
+        "maksud": "perkataan yang lembut juga yang dapat mendinginkan hati orang yang sedang marah"
+    },
+    {
+        "peribahasa": "belum disuruh sudah pergi, belum dipanggil sudah datang",
+        "id":46,
+        "maksud": "cerdik dan rajin"
+    },
+    {
+        "peribahasa": "baik membawa resmi ayam betina",
+        "id":47,
+        "maksud": "seseorang itu hendaklah selalu merendah diri dalam tutur kata dan perbuatan supaya tidak dibenci oleh orang lain dan selamat dalam hidup"
+    },
+    {
+        "peribahasa": "berapa berat mata memandang, berat lagi bahu memikul",
+        "id":48,
+        "maksud": "sesusah-susah orang yang melihat penderitaan seseorang itu tentulah tidak sama dengan penanggungan orang yang menderita itu sendiri"
+    },
+    {
+        "peribahasa": "besar kapal, besar gelombang",
+        "id":49,
+        "maksud": "makin tinggi pangkat atau makin besar perniagaannya, maka makin besar pula tanggungjawabnya"
+    },
+    {
+        "peribahasa": "biduk lalu kiambang bertaut",
+        "id":50,
+        "maksud": "lebih baik jangan dicampuri perselisihan orang yang bersanak saudara kerana akhirnya mereka akan berbaik semula"
+    },
+    {
+        "peribahasa": "hati gajah sama dilapah, hati kuman sama dicecah",
+        "id":51,
+        "maksud": ["pembahagian yang sama rata dan adil", "sama-sama menikmati kesenangan dan kesusahan"]
+    },
+    {
+        "peribahasa": "hujan emas di negeri orang, hujan batu di negeri sendiri, baik juga di negeri sendiri",
+        "id":52,
+        "maksud": "walau bagaimana mewah atau makmur sekalipun negeri orang, negeri sendiri juga yang lebih baik"
+    },
+    {
+        "peribahasa": "jika tidak dipecah ruyung, di mana boleh mendapat sagunya",
+        "id":53,
+        "maksud": "tidak akan tercapai cita-cita tanpa usaha yang gigih"
+    },
+    {
+        "peribahasa": "jika ular menyusur akar, tidak akan hilang bisanya",
+        "id":54,
+        "maksud": "orang besar atau mulia tidak akan hilang martabatnya jika ia merendahkan dirinya sekalipun"
+    },
+    {
+        "peribahasa": "kalau kail panjang sejengkal, jangan lautan hendak diduga",
+        "id":55,
+        "maksud": "jika ilmu atau kebolehan kita sedikit, janganlah kita cuba melawan orang atau berbuat sesuatu yang besar"
+    },
+    {
+        "peribahasa": "kilat di dalam kilau, kabus di dalam hujan",
+        "id":56,
+        "maksud": "dalam percakapan atau tingkah laku seseorang, terkandung kemahuannya"
+    },
+    {
+        "peribahasa": "melentur buluh biarlah dari rebung",
+        "id":57,
+        "maksud": "mengajar atau mendidik anak biarlah daripada kecilnya kerana apabila telah besar, keras hatinya dan perangainya susah dibentuk"
+    },
+    {
+        "peribahasa": "membuang garam ke laut",
+        "id":58,
+        "maksud": "membuat sesuatu yang tidak memberikan faedah"
+    },
+    {
+        "peribahasa": "meski tertimbun dalam tanah, namun teras timbul juga",
+        "id":59,
+        "maksud": ["seseorang yang berbudi baik itu sekali pun dalam melarat tetap berbudi dan berhati mulia", "meskipun kebenaran itu belum terang, lambat laun akan menjadi kenyataan juga"]
+    },
+    {
+        "peribahasa": "nasi tak dingin pinggan tak retak",
+        "id":60,
+        "maksud": "orang yang cermat membuat pekerjaannya, walaupun banyak kerja jarang yang rosak"
+    },
+    {
+        "peribahasa": "pagi tidak dibuang, senja tidak dikejar",
+        "id":61,
+        "maksud": "menggunakan masa dengan sebaik-baiknya"
+    },
+    {
+        "peribahasa": "pelepah bawah luruh, pelepah atas jangan gelak",
+        "id":62,
+        "maksud": "tiap-tiap yang bernyawa akan mati juga sudahnya, baik tua, muda ataupun anak-anak kecil"
+    },
+    {
+        "peribahasa": "sebab buah dikenal pohonnya",
+        "id":63,
+        "maksud": "daripada tingkah laku seseorang itu kita dapat mengetahui atau mengenali watak dan asal seseorang"
+    },
+    {
+        "peribahasa": "seperti harimau menyembunyikan kukunya",
+        "id":64,
+        "maksud": "orang yang bijaksana tetapi menyembunyikan pengetahuan dan kebolehannya"
+    },
+    {
+        "peribahasa": "seperti labah-labah cinta kepada telurnya",
+        "id":65,
+        "maksud": "perihal kasih sayang yang mendalam sekali dan sukar diceraikan"
+    },
+    {
+        "peribahasa": "belayar sampai ke pulau",
+        "id":66,
+        "maksud": "membuat pekerjaan sehingga sempurna"
+    },
+    {
+        "peribahasa": "hutang emas dapat dibayar, hutang budi dibawa mati",
+        "id":67,
+        "maksud": "budi bahasa orang tidak dapat dibalas dengan wang dan harus diingat seumur hidup"
+    },
+    {
+        "peribahasa": "kalau gajah hendaklah dipandang gadingnya, kalau harimau hendaklah dipandang belangnya",
+        "id":68,
+        "maksud": "sesuatu perkara itu perlu disiasat dahulu dengan teliti dan tidak boleh setakat mendengar cakap-cakap orang sahaja"
+    },
+    {
+        "peribahasa": "kemenyan sebesar lutut, tidak dibakar takkan berbau",
+        "id":69,
+        "maksud": "tidak ada gunanya ilmu pengetahuan yang disimpan sahaja"
+    },
+    {
+        "peribahasa": "kuat burung kerana sayap, kuat ketam kerana sepit",
+        "id":70,
+        "maksud": "kuat atau berkuasa kerana sesuatu kelebihannya"
+    },
+    {
+        "peribahasa": "ikut hati mati, ikut rasa binasa, ikut mata leta",
+        "id":71,
+        "maksud": "orang yang mengikutkan hawa nafsunya akhirnya akan binasa"
+    },
+    {
+        "peribahasa": "menepuk air di dulang, terpercik ke muka sendiri",
+        "id":72,
+        "maksud": "menceritakan cacat cela kaum keluarga maka diri sendiri juga yang mendapat malu"
+    },
+    {
+        "peribahasa": "pisang tidak berbuah dua kali",
+        "id":73,
+        "maksud": "manusia harus beringat-ingat supaya perkara yang tidak baik yang dialaminya tidak berulang lagi"
+    },
+    {
+        "peribahasa": "rosak badan kerana penyakit, rosak bangsa kerana laku",
+        "id":74,
+        "maksud": "penyakit yang dihidapi itu boleh merosakkan keelokan rupa kita, begitu juga kelakuan yang keji itu boleh merosakkan nama baik bangsa kita"
+    },
+    {
+        "peribahasa": "seperti menghela rambut dalam tepung, rambut jangan putus tepung jangan berserak",
+        "id":75,
+        "maksud": ["bersikap bijaksana dalam menyelesaikan sesuatu masalah", "menghukum hendaklah dengan seadil-adilnya, sehingga kedua-dua belah pihak berasa puas"]
+    },
+    {
+        "peribahasa": "tangan mencencang bahu memikul",
+        "id":76,
+        "maksud": "kesalahan yang kita buat itu kita sendirilah yang menanggungnya"
+    },
+    {
+        "peribahasa": "tiada rotan akar berguna",
+        "id":77,
+        "maksud": "kalau tidak ada yang baik sekali, yang kurang baik pun berguna juga"
+    },
+    {
+        "peribahasa": "tukang tidak membuang kayu",
+        "id":78,
+        "maksud": "orang yang cerdik, sayang akan sekalian macam orang kerana masing-masing ada gunanya"
+    },
+    {
+        "peribahasa": "umpama duduk seperti kucing, melompat seperti harimau",
+        "id":79,
+        "maksud": "pendiam tetapi cekap bekerja dan pintar"
+    },
+    {
+        "peribahasa": "yang dikejar tak dapat, yang dikendong berciciran",
+        "id":80,
+        "maksud": "keuntungan yang diharapkan tidak diperoleh sedangkan keuntungan yang di dalam tangan habis hilang"
+    }
+]
