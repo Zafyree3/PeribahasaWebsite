@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+html {
+    font-size: 62.5%;
+}
+
 div, button {
     margin: 1rem;
     color: black;
     text-align: center;
     border-radius: 0.5rem;
     font-family: 'Poppins', sans-serif;
+    font-size: 2.0rem;
 }
 body {
     display:flex;
@@ -64,6 +69,7 @@ body {
     background-color: #edf6f9;
     text-align: center;
     width: 14vw;
+    font-size: 1.6rem;
 }
 
 #tl {
