@@ -97,9 +97,9 @@ body {
     background-color: #ffd6e0;
 }
 
-@media only screen and (max-width: 1000px) {
+/* @media only screen and (max-width: 1000px) {
     div, button {
-        font-size: 80%;
+        font-size: 110%;
     }
     .title {
         font-size: 70%;
@@ -110,4 +110,4 @@ body {
     .option {
         padding-inline: 3%;
     }
-}
+} */

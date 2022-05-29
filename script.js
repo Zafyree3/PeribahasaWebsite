@@ -83,7 +83,7 @@ function randomise() {
             //console.log("option" + i + ": " + typeof optionText.maksud)
             //console.log(typeof optionText.maksud == "object")
             if (typeof optionText.maksud == "object") {
-                optHTMLArr[i].innerHTML = optionText.maksud[randomNum(1,3)]
+                optHTMLArr[i].innerHTML = optionText.maksud[randomNum(0,1)]
             } else{
                 optHTMLArr[i].innerHTML = optionText.maksud;
             }
