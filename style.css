@@ -7,11 +7,6 @@ div, button {
     font-family: 'Poppins', sans-serif;
     font-size: 1.2rem;
 }
-@media only screen and (max-width: 1000px) {
-    div, button {
-        font-size: 1.3vh;
-    }
-}
 
 body {
     display:flex;
@@ -23,18 +18,26 @@ body {
     background-color: #1d3557;
     overflow-y: hidden;
     overflow-x: hidden;
+    margin: 0px;
 }
 .title {
+    margin-left: 0px;
+    margin-right: 0px;
+    display: flex;
     height: 15vh;
-    width: 110vw;
+    width: 100vw;
+    border-radius: 0rem;
     background-color: #edf6f9;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
 }
 .container {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
 }
 .bottom {
     height: 55vh;
@@ -45,16 +48,20 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    height: 50%;
-    width: 100%;
+    max-height: 50%;
+    min-height: 50%;
+    min-width: 100%;
+    max-width: 100%;
 }
 .option {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    height: 100%;
-    width: 50%;
+    min-height: 100%;
+    max-height: 100%;
+    max-width: 50%;
+    min-width: 50%;
     padding-inline: 1rem;
 }
 .option:hover {
@@ -70,7 +77,9 @@ body {
     left: 0.3rem;
     background-color: #edf6f9;
     text-align: center;
-    width: 20vw;
+    width: fit-content;
+    padding-left: 1%;
+    padding-right : 1%;
     font-size: 1.2rem;
 }
 
@@ -83,6 +92,22 @@ body {
 #br {
     background-color: #f1faee;
 }
+/* e63946 */
 #bl {
-    background-color: #e63946;
+    background-color: #ffd6e0;
+}
+
+@media only screen and (max-width: 1000px) {
+    div, button {
+        font-size: 80%;
+    }
+    .title {
+        font-size: 70%;
+    }
+    .count {
+        font-size: 60%;
+    }
+    .option {
+        padding-inline: 3%;
+    }
 }
