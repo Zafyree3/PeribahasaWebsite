@@ -74,7 +74,7 @@ function randomise() {
     .then(jsondata => { 
         var result = jsondata;
         var options = get4DiffNum(result.length - 1);
-        correct = randomNum(1,4);
+        correct = randomNum(1,4);   
         //alert(correct);
         peribahasaHTML.innerHTML = result[options[correct-1]].peribahasa;
         for (var i = 0; i < 4; i++) {
@@ -86,6 +86,13 @@ function randomise() {
                 optHTMLArr[i].innerHTML = optionText.maksud[randomNum(0,1)]
             } else{
                 optHTMLArr[i].innerHTML = optionText.maksud;
+            }
+            if ( optHTMLArr[i].innerHTML == "undefined") {
+                console.error("Got An Undefined Here");
+                console.log(option);
+                console.log(optionText.maksud);
+                console.log(optionText.maksud[0]);
+                console.log(optionText.maksud[1]);
             }
                     //alert("error")
         }
